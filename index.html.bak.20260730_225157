@@ -2,17 +2,6 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-  <meta name="description" content="智餐云 · 餐饮行业数字化管理平台 - 清远凡神人工智能旗下专业平台">
-  <meta name="keywords" content="清远凡神,人工智能,智餐云 · 餐饮行业数字化管理平台">
-  <meta name="author" content="清远凡神人工智能">
-  <link rel="canonical" href="https://canyin.qyfanshen.com/">
-  <meta property="og:title" content="智餐云 · 餐饮行业数字化管理平台">
-  <meta property="og:description" content="智餐云 · 餐饮行业数字化管理平台 - 清远凡神人工智能旗下专业平台">
-  <meta property="og:url" content="https://canyin.qyfanshen.com/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="清远凡神人工智能">
-  <meta name="twitter:card" content="summary">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>智餐云 · 餐饮行业数字化管理平台</title>
 <style>
@@ -225,15 +214,6 @@
   body.app-mode{overflow:hidden}
 </style>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "清远凡神人工智能",
-    "url": "https://canyin.qyfanshen.com/",
-    "description": "智餐云 · 餐饮行业数字化管理平台 - 清远凡神人工智能旗下专业平台"
-  }
-  </script>
 </head>
 <body>
   <div id="home">
@@ -915,15 +895,6 @@ tr.row-alert-red{background:rgba(245,63,63,.04)!important;}
   .hero-actions{flex-direction:row;}
 }
 </style>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "清远凡神人工智能",
-    "url": "https://canyin.qyfanshen.com/",
-    "description": "智餐云 · 餐饮行业数字化管理平台 - 清远凡神人工智能旗下专业平台"
-  }
-  </script>
 </head>
 <body>
 <div class="app">
@@ -6311,15 +6282,6 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
   .pos-menu-grid{grid-template-columns:repeat(4,1fr);}
 }
 </style>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "清远凡神人工智能",
-    "url": "https://canyin.qyfanshen.com/",
-    "description": "智餐云 · 餐饮行业数字化管理平台 - 清远凡神人工智能旗下专业平台"
-  }
-  </script>
 </head>
 <body>
 <!-- ========== 登录页 ========== -->
