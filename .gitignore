@@ -32,3 +32,9 @@ cache/
 *.key
 config.php
 database.php
+*.bak*
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
