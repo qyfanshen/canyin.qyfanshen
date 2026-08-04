@@ -35,7 +35,7 @@ database.php
 *.bak*
 *.jpg
 *.jpeg
-*.png
+# *.png  # screenshots 需提交 PNG，已在此脚本工作区忽略
 *.gif
 *.webp
 *.bak.*
