@@ -40,6 +40,10 @@ database.php
 *.webp
 *.bak.*
 storage/payment.key
+*.zip
+*.tar.gz
+*.tgz
+*.rar
 .git/
 runtime/
 storage/logs/
