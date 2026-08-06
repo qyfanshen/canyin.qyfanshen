@@ -2,6 +2,8 @@
 
 > 智餐云 · 餐饮行业数字化管理平台
 
+> 🚀 **[在线演示](https://canyin.qyfanshen.com)** · 📚 **[文档](docs/)** · 📋 **[快速开始](docs/QUICKSTART.md)** · 🐛 **[反馈问题](https://github.com/qyfanshen/canyin.qyfanshen/issues)** · ⭐ **[Star](https://github.com/qyfanshen/canyin.qyfanshen)**
+
 ![预览](screenshots/preview.png)
 <p align="center">
   <a href="https://github.com/qyfanshen/canyin.qyfanshen"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="许可证"></a>

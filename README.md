@@ -2,6 +2,8 @@
 
 > Digital Management Platform for the Catering Industry
 
+> 🚀 **[Live Demo](https://canyin.qyfanshen.com)** · 📚 **[Docs](docs/)** · 📋 **[Quick Start](docs/QUICKSTART.md)** · 🐛 **[Report Bug](https://github.com/qyfanshen/canyin.qyfanshen/issues)** · ⭐ **[Star](https://github.com/qyfanshen/canyin.qyfanshen)**
+
 ![preview](screenshots/preview.png)
 <p align="center">
   <a href="https://github.com/qyfanshen/canyin.qyfanshen"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
