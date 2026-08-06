@@ -13,6 +13,8 @@
 
 ---
 
+**ZhiCanYun** is a lightweight, deployment-ready digital management platform for chain restaurants and small eateries — order, membership, revenue and roles in one console, deployable to any static host in minutes.
+
 [English](README.md) | [中文](README.zh.md)
 
 ## Key Scenarios
